@@ -9,3 +9,6 @@ In order to stabilize a pendulum in this inverted position, a feedback control s
 
 ## Youtube Video
 https://www.youtube.com/watch?v=o6rv7G4vZLM&feature=youtu.be
+
+
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=o6rv7G4vZLM&feature=youtu.be)](https://www.youtube.com/watch?v=o6rv7G4vZLM&feature=youtu.be)
