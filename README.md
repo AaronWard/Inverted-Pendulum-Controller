@@ -6,3 +6,6 @@ In order to stabilize a pendulum in this inverted position, a feedback control s
 
 
 ![alt text](https://i.imgur.com/hxPCWx8.png)
+
+## Youtube Video
+https://www.youtube.com/watch?v=o6rv7G4vZLM&feature=youtu.be
