@@ -8,7 +8,4 @@ In order to stabilize a pendulum in this inverted position, a feedback control s
 ![alt text](https://i.imgur.com/hxPCWx8.png)
 
 ## Click on the Youtube Video below:
-
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/7Tvo8jXlPuk/maxresdefault.jpg)](https://www.youtube.com/watch?v=o6rv7G4vZLM&feature=youtu.be)
-
-https://www.youtube.com/watch?v=o6rv7G4vZLM&feature=youtu.be
+https://www.youtube.com/watch?v=4ZUlkuROyIA
